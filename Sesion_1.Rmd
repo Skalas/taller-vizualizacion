@@ -1,5 +1,5 @@
 ---
-title: "Visualización con R"
+title: "Visualización con R Pt.1"
 author: "Miguel Angel Escalante Serrato"
 date: "Noviembre 13, 2020"
 output: 
