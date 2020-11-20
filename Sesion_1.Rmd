@@ -237,6 +237,7 @@ p2 <- ggplot(father.son, aes(fheight)) +
              ggtitle("Fathers")
 grid.arrange(c2, p2, nrow = 1)
 ```
+
 Por lo que se ve de las gráficas y comparando con la imagen que se tiene de normalidad parece que la distribución de las alturas de los hijos es más normal que la de los padres, ahora probaremos esta hipótesis con otra prueba gráfica: qq-plot: 
 
 ```{r}
